@@ -1,0 +1,35 @@
+
+body {
+    text-align: center;
+    background: #69F0AE;
+}
+
+#list {
+    text-align: right;
+    list-style: none;
+    font-family: algerian;
+    position: fixed;
+    right: 30px;
+}
+
+.items {
+
+    float: left;
+    padding: 10px;
+}
+
+#Codeorg {
+    background: linear-gradient(#EEFF41 0%, #64B5F6 100%);
+    background-repeat: no-repeat;
+    height: 280px;
+}
+
+.codeart {
+    height: 175pxpx;
+    margin: 15px;
+}
+
+#games {
+    background: linear-gradient(#00E676 0%, #FF7043 100%);
+    background-repeat: no-repeat;
+}
